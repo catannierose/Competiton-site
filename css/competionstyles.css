@@ -4,7 +4,7 @@ h1 {
       font-family: helvetica;
       padding: 4cm 3cm 4cm 3cm;
       font-size: 40px;
-      background-image:url("C:/Users/User/Documents/UNI/Coding Course/Competiton site/img/germanflag.jpg");
+      background-image:url("C:/Users/Chan/Desktop/Coding course/Competiton-site/img/germanflag.jpg");
       background-position: center;
       margin: 45px;
       outline: 5px dotted red;
@@ -14,4 +14,29 @@ p {
   color: red;
   text-align: center;
   font-family: times;
+}
+
+li a {
+    display: block;
+    width: 60px;
+}
+
+#social-buttons button {
+color: white;
+}
+.btn-twitter {
+background: #00acee;
+border-color: #009ad5;
+}
+.btn-facebook {
+background: #4868ac;
+border-color: #314776;
+}
+.btn-pinterest {
+background: #b62f26;
+border-color: #b62f26;
+}
+.btn-subscribe {
+background: #f4b404;
+border-color: #f4b404;
 }
