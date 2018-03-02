@@ -1,0 +1,17 @@
+h1 {
+      color: yellow;
+      text-align: center;
+      font-family: helvetica;
+      padding: 4cm 3cm 4cm 3cm;
+      font-size: 40px;
+      background-image:url("C:/Users/User/Documents/UNI/Coding Course/Competiton site/img/germanflag.jpg");
+      background-position: center;
+      margin: 45px;
+      outline: 5px dotted red;
+
+}
+p {
+  color: red;
+  text-align: center;
+  font-family: times;
+}
