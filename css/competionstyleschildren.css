@@ -1,0 +1,42 @@
+h1 {
+      color: yellow;
+      text-align: center;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      padding: 4cm 3cm 4cm 3cm;
+      font-size: 40px;
+      background-image:url("C:/Users/Chan/Desktop/Coding course/Competiton-site/img/littlered.jpg");
+      background-position: center;
+      margin:10px;
+      outline: 5px dotted red;
+
+}
+p {
+  color: black;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+li a {
+    display: block;
+    width: 60px;
+}
+
+#social-buttons button {
+color: white;
+}
+.btn-twitter {
+background: #00acee;
+border-color: #009ad5;
+}
+.btn-facebook {
+background: #4868ac;
+border-color: #314776;
+}
+.btn-pinterest {
+background: #b62f26;
+border-color: #b62f26;
+}
+.btn-subscribe {
+background: #f4b404;
+border-color: #f4b404;
+}
