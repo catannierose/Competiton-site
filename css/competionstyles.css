@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color:#FB7AB4;
+    background-color:black;
     overflow: hidden;
 }
 
@@ -39,8 +39,7 @@ h1 {
       background-image:url("../img/germanflag.jpg");
       background-position: center;
       margin: 5px;
-      outline: 3px dotted red;
-
+      
 }
 
 h2 {

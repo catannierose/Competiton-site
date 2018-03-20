@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #FB7AB4;
+    background-color: black;
     overflow: hidden;
 }
 
@@ -40,7 +40,7 @@ h1 {
       background-image:url("../css/nuremberg.jpg");
       background-position: center;
       margin:10px;
-      outline: 5px dotted pink;
+      outline: 5px dotted yellow;
 }
 
 h2 {
