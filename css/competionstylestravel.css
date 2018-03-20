@@ -1,17 +1,57 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #FB7AB4;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: blue;
+    color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: ;
+    color: white;
+}
+
+body {
+  padding-top: 1px;
+}
+
+
 h1 {
       color: yellow;
       text-align: center;
       font-family: "Comic Sans MS", cursive, sans-serif;
       padding: 4cm 3cm 4cm 3cm;
-      font-size: 40px;
+      font-size: 60px;
       background-image:url("../css/nuremberg.jpg");
       background-position: center;
       margin:10px;
-      outline: 5px dotted red;
-
+      outline: 5px dotted pink;
 }
+
+h2 {
+      color: maroon;
+      text-align: center;
+      font-family: "Comic Sans MS",Cursive, sans-serif;
+      font-size: 25px;
+}
+
 p {
-  color: black;
+  color: blue;
   text-align: center;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
