@@ -39,7 +39,7 @@ h1 {
       background-image:url("../img/germanflag.jpg");
       background-position: center;
       margin: 5px;
-      
+      outline: 3px dashed  black;
 }
 
 h2 {
